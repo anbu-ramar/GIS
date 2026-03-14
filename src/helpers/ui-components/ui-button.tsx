@@ -42,7 +42,6 @@ const UIButton: React.FC<ButtonProps> = ({
         cursor-pointer
         px-4 py-2
         rounded-lg
-        border border-base-300
         bg-base-200
         text-base-content
         hover:bg-base-300
